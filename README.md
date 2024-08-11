@@ -1,1 +1,1 @@
-# PRODIGY_CS_03
+This tool evaluates password strength by analyzing criteria such as length, inclusion of uppercase and lowercase letters, numbers, and special characters, providing users with feedback on how secure their password is, and can also generate strong passwords for them.
